@@ -1,7 +1,7 @@
 {
 	"preprocessing": {
-		"package-info": "package.json",
-		"replace-vars": true
+		"packageInfo": "package.json",
+		"replaceVars": true
 	},
 	"run": "lifecycle.js",
 	"finish": "code ."
